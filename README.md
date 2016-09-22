@@ -1,3 +1,5 @@
+[2011 Class project]
+
 The Amazing Maze
 ==============
 
